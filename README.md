@@ -6,7 +6,7 @@
 This is where **quality of earnings (QoE)** comes into play. Successful investors know that it’s not just about how much a company earns—it’s about how those earnings are generated. Are they sustainable? Are they real? Or are they just a clever accounting trick?  
 
 In this blog, I’ll walk you through the secrets of understanding the **quality of earnings**, why it’s a game-changer for investors, and how you can use it to make smarter financial decisions. Let’s dive in!  
-https://github.com/SMMExpertService/quality-of-earnings/blob/7d612fae175514e28ab8324c0fc3afa920034bbe/quality-of-earnings-min.jpg
+![Quality of Earnings](https://github.com/SMMExpertService/quality-of-earnings/blob/7d612fae175514e28ab8324c0fc3afa920034bbe/quality-of-earnings-min.jpg)
 ## **Secrets of Successful Investors: How They Use QoE**  
 
 Successful investors don’t just glance at a company’s income statement and call it a day. They dig deeper. Here’s how they use QoE to their advantage:  
